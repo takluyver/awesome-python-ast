@@ -26,7 +26,7 @@ Python tools, libraries and resources about AST (as in Abstract Syntax Trees)
 - [astpath](https://github.com/hchasestevens/astpath) - A command-line search utility for Python ASTs using XPath syntax.
 - [astpretty](https://github.com/asottile/astpretty) - Pretty print the output of python stdlib `ast.parse`.
 - [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
-- [astsearch](https://github.com/takluyver/astsearch) - Search through ASTs using XPath syntax
+- [astsearch](https://github.com/takluyver/astsearch) - Search through ASTs using code snippets with wildcards
 - [astunparse](https://github.com/simonpercivall/astunparse) - a factored out version of unparse found in the Python source distribution
 - [baron](https://github.com/PyCQA/baron) - a Full Syntax Tree (FST) library
 - [parso](https://github.com/davidhalter/parso) - parser that supports error recovery and round-trip parsing
